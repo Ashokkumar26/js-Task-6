@@ -1,0 +1,11 @@
+body {
+	background-image: url(../image/bg.jpg);
+	background-size: 100%;
+}
+.card {
+	background-color: rgba(20%,30%,60%, 0.2);
+	color: white;
+}
+input[type=number]::-webkit-inner-spin-button { 
+  -webkit-appearance: none; 
+  }
